@@ -1,0 +1,32 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Digikey link,Cost
+"C1,C7,C8,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C23,C27",0.1u,~,Capacitor_SMD:C_0603_1608Metric,17,,https://www.digikey.in/en/products/detail/samsung-electro-mechanics/CL03A104KQ3NNNC/3886671,141.78
+"C2,C3,C34,C35,C39,C40,C41,C42,C44,C45",10p,~,Capacitor_SMD:C_0603_1608Metric,10,,https://www.digikey.in/en/products/detail/yageo/CC0603JRNPO9BN100/302792,83.4
+"C4,C5,C6,C28,C29,C30,C31,L2",10u,~,-- mixed values --,8,,https://www.digikey.in/en/products/detail/taiyo-yuden/JMK107ABJ106MA-T/4970720,73.44
+"C9,C24",1u,~,Capacitor_SMD:C_0603_1608Metric,2,,https://www.digikey.in/en/products/detail/tdk-corporation/CGA3E1X7R1E105K080DC/22106060,28.36
+C22,4.7u,~,Capacitor_SMD:C_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702,8.34
+C25,100n,~,Capacitor_SMD:C_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/yageo/CQ0201JRNPO8BN100/6097703,8.34
+C26,470p,~,Capacitor_SMD:C_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/murata-electronics/GRM0335C1E471GA01D/6605991,8.34
+"C32,C33",5p,~,Capacitor_SMD:C_0603_1608Metric,2,,https://www.digikey.in/en/products/detail/murata-electronics/GRM0335C1H4R7BA01D/4358750,16.68
+"C36,C43",0.022u,~,Capacitor_SMD:C_0603_1608Metric,2,,https://www.digikey.in/en/products/detail/murata-electronics/GCM188R72A223KA37J/2591966,18.36
+"D1,D2,D3",D,~,Diode_SMD:D_0603_1608Metric,3,,https://www.digikey.in/en/products/detail/taiwan-semiconductor-corporation/TS4148-RCG/7359811,52.56
+"D4,D5",LED,~,LED_SMD:LED_0603_1608Metric,2,,https://www.digikey.in/en/products/detail/w%C3%BCrth-elektronik/150060GS75000/4489898,25.02
+"FB1,FB2,FB3,FB4,FB5",220R,~,Ferrite_THT:LairdTech_28C0236-0JW-10,5,,https://www.digikey.in/en/products/detail/walsin-technology-corporation/WLBD2012HCU221TH/14563788,41.7
+FB6,33R,~,Ferrite_THT:LairdTech_28C0236-0JW-10,1,,https://www.digikey.in/en/products/detail/walsin-technology-corporation/WLBD2012HCU310TH/14563782,8.34
+J1,Conn_01x05,~,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,1,,https://www.digikey.in/en/products/detail/adam-tech/PH1-05-UA/9830343,10.84
+J2,Conn_01x03,~,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,,https://www.digikey.in/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825,10.84
+J3,USB_B_Micro,~,Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,1,,https://www.digikey.in/en/products/detail/amphenol-cs-fci/10103594-0001LF/2350351,64.23
+"J4,J5",J0011D01BNL,J0011D01BNL,J0011D01BNL:CONN12_011D01BNL_PUL,2,,https://www.digikey.in/en/products/detail/pulse-electronics/J0011D01BNL/1036891,749.86
+"R1,R2,R7,R8,R24,R25,R31,R32,R33",10k,~,Resistor_SMD:R_0603_1608Metric,9,,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/RMCF0603JT10K0/1758104,75.06
+"R3,R4,R5,R10,R14,R15,R16,R17",49.9,~,Resistor_SMD:R_0603_1608Metric,8,,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-3EKF49R9V/196378,66.72
+R6,2.2k,~,Resistor_SMD:R_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ222V/135862,8.34
+"R9,R12,R13,R19",330,~,Resistor_SMD:R_0603_1608Metric,4,,https://www.digikey.in/en/products/detail/yageo/RC0603JR-07330RL/726769,33.36
+"R11,R18",0,~,Resistor_SMD:R_0603_1608Metric,2,,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908,16.68
+"R21,R22,R23",332,~,Resistor_SMD:R_0603_1608Metric,3,,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/RMCF0603FT332R/1760749,25.02
+R26,1k,~,Resistor_SMD:R_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/yageo/RC0603FR-071KL/726843,8.34
+"R27,R28,R29",33,~,Resistor_SMD:R_0603_1608Metric,3,,https://www.digikey.in/en/products/detail/yageo/RC0201FR-0733RL/1948893,25.02
+R30,22,~,Resistor_SMD:R_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/yageo/RC0603FR-0722RL/727055,8.34
+R34,12.1k,~,Resistor_SMD:R_0603_1608Metric,1,,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/RMCF0603FT12K1/1761240,8.34
+U1,24FC512-I/P,24FC512-I/P,24FC512:PDIP8_300MC_MCH,1,,https://www.digikey.in/en/products/detail/microchip-technology/24FC512-I-SN/2258570,145.97
+U7,LAN9255,LAN9255,LAN9255:128-TQFP_9.0EPAD_MCH,1,,https://www.digikey.in/en/products/detail/microchip-technology/LAN9255-I-ZMX019/13986029,1537.25
+Y1,25MHz,~,Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal,1,,https://www.digikey.in/en/products/detail/ecs-inc/ECS-250-18-5PX-F-TR/827411,20.02
+Y2,32.768kHz,~,Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal,1,,https://www.digikey.in/en/products/detail/citizen-finedevice-co-ltd/CFS-20632768DZBB/862578,20.02

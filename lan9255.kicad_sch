@@ -1,0 +1,317 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "47a041b9-30f6-48ce-95b3-36b8012390ac")
+	(paper "A0")
+	(lib_symbols)
+	(sheet
+		(at 109.22 256.54)
+		(size 176.53 156.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2702fdf7-fc70-49d2-b019-24fdf4c1748b")
+		(property "Sheetname" "USB"
+			(at 109.22 255.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 109.22 413.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 279.4 58.42)
+		(size 116.84 111.76)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46bd004f-7833-4e64-8574-6b22a282ea63")
+		(property "Sheetname" "PowerSupply"
+			(at 279.4 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply.kicad_sch"
+			(at 279.4 170.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 631.19 260.35)
+		(size 144.145 149.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5f9ec083-f769-4677-b053-e1b9cef459eb")
+		(property "Sheetname" "JTAG"
+			(at 631.19 259.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG.kicad_sch"
+			(at 631.19 410.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 928.37 90.17)
+		(size 189.23 157.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "749f2934-ff2d-4f79-9f4e-0214bdcafe9e")
+		(property "Sheetname" "ClockGen"
+			(at 928.37 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ClockGen.kicad_sch"
+			(at 928.37 248.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 362.585 263.525)
+		(size 177.165 137.795)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ff9ff0b-e401-4de3-a132-5b3081785c94")
+		(property "Sheetname" "EEPROM"
+			(at 362.585 262.8134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EEPROM.kicad_sch"
+			(at 362.585 401.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.88 50.8)
+		(size 177.8 129.54)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9968e272-5230-40fd-9058-e3c2910d94d5")
+		(property "Sheetname" "EtherCat"
+			(at 55.88 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EtherCat.kicad_sch"
+			(at 55.88 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 447.04 68.58)
+		(size 182.88 132.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a77e5985-5586-423e-b38b-37e2654c3975")
+		(property "Sheetname" "Microcontroller"
+			(at 447.04 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 447.04 201.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 713.74 71.12)
+		(size 142.24 162.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aac34853-1c86-4ef3-b13f-dfcc03089391")
+		(property "Sheetname" "MiscSignals"
+			(at 713.74 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MiscSignals.kicad_sch"
+			(at 713.74 234.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lan9255"
+				(path "/47a041b9-30f6-48ce-95b3-36b8012390ac"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
